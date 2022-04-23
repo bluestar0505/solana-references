@@ -1,13 +1,26 @@
 # Becoming a Senior Solana Developer
 
-## 🏅Junior🏅
-### Getting start Solana
-- Tutorial 1: Hello world<br>
-[Hello world](https://github.com/solana-labs/example-helloworld)
-- Tutorial 2: Solana Programming Introduction (from paulx)<br>
-[Article](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/) | [Source](https://github.com/paul-schaaf/solana-escrow) \
-  I recommend reading this post first before reading other posts to understand how to program in Solana.
+## 🏅Tutorials🏅
+- Typescript and Anchor:<br>
+[Source](https://github.com/solana-labs/example-helloworld)
+- Rust, Escrow and SPL: <br>
+Solana Programming Introduction (from paulx)<br>
+[Article](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/) | 
+[Source](https://github.com/paul-schaaf/solana-escrow) \
+I recommend reading this post first before reading other posts to understand how to program in Solana.
+- React, Anchor, Rust and Phantom:<br>
+The Complete Guide to Full Stack Solana Development with React, Anchor, Rust, and Phantom<br>
+[Article](https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291)  |
+[Source](https://github.com/dabit3/complete-guide-to-full-stack-solana-development) 
+- Anchor, Escrow: <br>
+[Article](https://hackmd.io/@ironaddicteddog/solana-anchor-escrow) | 
+[Source](https://github.com/ironaddicteddog/anchor-escrow) 
+- Anchor and Vue.js:<br>
+Can create a simplified version of Twitter as a Solana dApp (decentralised application) step by step,  in a custom VueJS app.<br>
+[Article](https://lorisleiva.com/create-a-solana-dapp-from-scratch)  |
+[Source](https://github.com/lorisleiva/solana-twitter)
 
+## 🏅Junior🏅
 ### SDK Reference
 - [Solana Program](https://docs.rs/solana-program/1.8.3/solana_program/)
 - [SPL Token](https://docs.rs/spl-token/latest/spl_token/)
@@ -19,26 +32,14 @@
 - [JSON RPC API](https://docs.solana.com/developing/clients/jsonrpc-api)
 - [SPL Token JS](https://github.com/solana-labs/solana-program-library/tree/master/token/js)
 
-## High Level
-### Anchor framework
-
+## 🏅Senior🏅
 ### Reference
 - [Anchor official document](https://project-serum.github.io/anchor/getting-started/introduction.html) 
 - [Rust](https://docs.rs/anchor-lang/0.18.2/anchor_lang/)
 - [Anchor Web3](https://project-serum.github.io/anchor/ts/index.html)
 
-### Getting start
-- Tutorial 1: Hello world
-  [Article](https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291)  |
-  [Source](https://github.com/dabit3/complete-guide-to-full-stack-solana-development) \
-  I think that this is just "Hello world" for Anchor
-- Tutorial 2: Escrow: [Article](https://hackmd.io/@ironaddicteddog/solana-anchor-escrow) | 
-[Source](https://github.com/ironaddicteddog/anchor-escrow) 
-- Tutorial 3: [Create a Solana dApp from scratch](https://lorisleiva.com/create-a-solana-dapp-from-scratch)
-
 ## Advanced
 - Escrow(advanced) [Source](https://github.com/cqfd/quidproquo) 
-
 - Anchor AMM [Source](https://github.com/ironaddicteddog/anchor-amm) 
 
 ### Bridge 
@@ -48,7 +49,6 @@
 - Wormhole [Live](https://wormholebridge.com/#/) 
   | [Post](https://wormholecrypto.medium.com/) 
   | [Source](https://github.com/certusone/wormhole)
-
 
 ### Staking
 - Step staking

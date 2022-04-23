@@ -55,18 +55,6 @@ solana balance <address>
 
 #2. Building Anchor app
 
-
-## Anchor manual
-① Document<br>
-https://docs.rs/anchor-lang/0.16.1/anchor_lang/#modules
-
-② anchor tutorial source explain<br>
-https://project-serum.github.io/anchor/getting-started/introduction.html
-
-③ TweetAccount<br>
-https://lorisleiva.com/create-a-solana-dapp-from-scratch/structuring-our-tweet-account
-
-
 ## 2-1. Creating Anchor App
 [Anchor Install](https://project-serum.github.io/anchor/getting-started/installation.html#install-rust)
 
@@ -148,3 +136,6 @@ Change into the app directory and run the following command:
 ```
 npm start
 ```
+
+
+https://status.solana.com/
