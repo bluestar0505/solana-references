@@ -1,10 +1,10 @@
-# The way of senior developer of Solana.
+# Becoming a Senior Solana Developer
 
-## Low level
+## 🏅Junior🏅
 ### Getting start Solana
-- Tutorial 1: Hello world \
+- Tutorial 1: Hello world<br>
 [Hello world](https://github.com/solana-labs/example-helloworld)
-- Tutorial 2: Solana Programming Introduction (from paulx)\
+- Tutorial 2: Solana Programming Introduction (from paulx)<br>
 [Article](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/) | [Source](https://github.com/paul-schaaf/solana-escrow) \
   I recommend reading this post first before reading other posts to understand how to program in Solana.
 
